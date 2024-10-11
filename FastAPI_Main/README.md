@@ -1,10 +1,16 @@
 Project details :
 The Aim of the project was to execute the following
+
 1.Make a Django application
+
 2.Migrate it to FastAPI
+
 3.Use config based development  , follow good coding practices , write comments and documentations and put logs
-3.Package it (Using poetry module packaging)
-4.Host on Windows services and/or IIS
+
+4.Package it (Using poetry module packaging)
+
+5.Host on Windows services and/or IIS
+
 
 How to execute this File:
 
